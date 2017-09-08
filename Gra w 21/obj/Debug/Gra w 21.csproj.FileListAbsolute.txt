@@ -1,0 +1,6 @@
+c:\users\dravi\documents\visual studio 2017\Projects\Gra w 21\Gra w 21\bin\Debug\Gra w 21.exe.config
+c:\users\dravi\documents\visual studio 2017\Projects\Gra w 21\Gra w 21\bin\Debug\Gra w 21.exe
+c:\users\dravi\documents\visual studio 2017\Projects\Gra w 21\Gra w 21\bin\Debug\Gra w 21.pdb
+c:\users\dravi\documents\visual studio 2017\Projects\Gra w 21\Gra w 21\obj\Debug\Gra w 21.csprojResolveAssemblyReference.cache
+c:\users\dravi\documents\visual studio 2017\Projects\Gra w 21\Gra w 21\obj\Debug\Gra w 21.exe
+c:\users\dravi\documents\visual studio 2017\Projects\Gra w 21\Gra w 21\obj\Debug\Gra w 21.pdb
